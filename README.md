@@ -6,7 +6,7 @@
 * Future versions will try to bring in a more dashboard-type interactivity and increased user-control over the segmentation of various metrics.
 
 ## Contents
-* The [Mental Health Survey 2014.ipynb]() file contains the data analysis and visualisation.
+* The [Mental Health Survey 2014.ipynb](https://github.com/alvin-98/mental-health-survey-2014/blob/main/Mental_Health_Survey_2014.ipynb) file contains the data analysis and visualisation.
 * The [survey.csv](https://github.com/alvin-98/mental-health-survey-2014/blob/main/survey.csv) is the dataset used in this project.
 
 ## Access
