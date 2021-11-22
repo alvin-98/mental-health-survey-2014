@@ -10,13 +10,8 @@
 * The [survey.csv](https://github.com/alvin-98/mental-health-survey-2014/blob/main/survey.csv) is the dataset used in this project.
 
 ## Access
-* There are two ways to access and interact with the project online -
-1. [Jupyter nbviewer](https://nbviewer.org/)
-* Copy and paste the following link into URL into the jupyter nbviewer search bar and hit `Go!` <br><br>Mental health survey 2014.ipynb : <br>
-https://github.com/alvin-98/mental-health-survey-2014/blob/main/Mental_Health_Survey_2014.ipynb
-* You will be able to view the code, however will not be able to interact with it. To do that use access method 2 below.
-
-2. [Google Colab](https://colab.research.google.com)
+* You can access and interact with the project online through Google Colab -
+* [Google Colab](https://colab.research.google.com)
 * On colab you can interact, run and tinker with the code as you please.
 * Simply click on the following link and you will be taken to the notebook. <br><br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Oqo39NRxxbf65UsoV3Yhu9ntKUlXdCrf?usp=sharing) 
