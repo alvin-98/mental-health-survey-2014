@@ -10,8 +10,7 @@
 * The [survey.csv](https://github.com/alvin-98/mental-health-survey-2014/blob/main/survey.csv) is the dataset used in this project.
 
 ## Access
-* You can access and interact with the project online through Google Colab -
-* [Google Colab](https://colab.research.google.com)
+* You can access and interact with the project online through Google Colab - [Google Colab](https://colab.research.google.com)
 * On colab you can interact, run and tinker with the code as you please.
 * Simply click on the following link and you will be taken to the notebook. <br><br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Oqo39NRxxbf65UsoV3Yhu9ntKUlXdCrf?usp=sharing) 
